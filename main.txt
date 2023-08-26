@@ -1,0 +1,3 @@
+main file 
+truffle compile
+run
